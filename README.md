@@ -1,8 +1,5 @@
 # JohnMark Kibui - Resume
 
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-success?style=flat-square&logo=github)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-
 A modern, responsive online CV/portfolio showcasing my skills and experience in Data Science and Civil Engineering.
 
 [![Open in GitHub](https://img.shields.io/badge/View-Source_Code-blue?style=for-the-badge&logo=github)](https://github.com/mark-kibui/mark-kibui.github.io)
